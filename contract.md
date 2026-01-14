@@ -27,9 +27,6 @@ I, Cailey Fay, agree to :
 
 ## SCHEDULE
 
-Note: This is an example schedule. You are welcomed and encouraged to
-rearrange these labs and events to fit your needs.
-
 - [ ] Module 01, 01/12 - 01/16 : What is Data Science and Meet the
   Toolkit
 
