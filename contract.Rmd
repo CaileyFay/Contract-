@@ -3,9 +3,9 @@ title: Grading Contract
 date: "`r format(Sys.time(), '%B %d %Y')`"
 output: github_document
 params:
-  weekonemonday: "2023-01-09"
+  weekonemonday: "2023-01-12"
   thesisdeadline: "2023-01-10"
-  springbreak: "2023-01-10"
+  springbreak: "2023-03-6"
   name: Cailey Fay 
   labs: 11
   portfolios: 10
@@ -104,7 +104,7 @@ advdate <- function(weekonemonday,
 
 #if(TRUE){
 #  
-#  dayone <- as.Date("2022-01-10")
+#  dayone <- as.Date("2022-01-12")
 #  startweek <- "Friday"
 #} else {
 
