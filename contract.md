@@ -74,9 +74,9 @@ I, Cailey Fay, agree to :
 
   - Finish Lab 10 by Friday: 03/20
 
-- [ ] Module 11, 03/23 - 03/27 : Prediction and overfitting
+- [ ] Module 11, 03/23 - 03/27 : Prediction and overfitting - Finish Lab
+  11 by Friday: 03/27
 
-  - Finish Lab 11 by Friday: 03/27
   - Finish portfolio piece 5 by Friday: 03/27
 
 - [ ] Module 12, 03/30 - 04/03 : Cross validation
@@ -91,7 +91,7 @@ I, Cailey Fay, agree to :
 
   - Finish portfolio piece 9 by Friday: 04/17
 
-- [ ] Module 15, 04/20 - 04/24 : Special Topics
+- [ ] Module 15, 04/20 - 04/24 : Base R and Simulating Data
 
   - Finish portfolio piece 10 by Friday: 04/24
 
